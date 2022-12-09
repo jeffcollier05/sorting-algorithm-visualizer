@@ -11,7 +11,7 @@
 ## Technologies
 Project is created with:
 * C++
-* SDL2
+* SDL2 2.24.0
 
 ## Setup
 To use this project on Windows, need to download libraries:    
