@@ -1,7 +1,7 @@
 ## Sorting Algorithm Visualizer
 * Full-stack C++ project
-* Interactive tool for sorting arrays of numbers.
-* Provides visual representation of algorithms in-action.
+* Interactive tool for sorting arrays of numbers
+* Provides visual representation of algorithms in-action
 
 ## Images
 <p float="left">
@@ -21,13 +21,13 @@ SDL2
 Run the solution.
 
 Controls:    
-* Press 'H' to access this help information.    
-* Press 'Q' to quit the program.     
-* Press '0' to generate new array of data.    
-* Press '1' to run Selection Sort.    
-* Press '2' to run Bubble Sort.    
-* Press 'Left Arrow Key' to increase sorting speed.    
-* Press 'Right Arrow Key' to decrease sorting speed.    
+* Press 'H' to access this help information    
+* Press 'Q' to quit the program     
+* Press '0' to generate new array of data    
+* Press '1' to run Selection Sort    
+* Press '2' to run Bubble Sort    
+* Press 'Left Arrow Key' to increase sorting speed    
+* Press 'Right Arrow Key' to decrease sorting speed    
 
 ## Future Features
 * Write more algorithm functions to sort the number arrays
