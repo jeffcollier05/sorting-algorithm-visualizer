@@ -1,4 +1,5 @@
 ## Sorting Algorithm Visualizer
+* Full-stack C++ project
 * Interactive tool for sorting arrays of numbers.
 * Provides visual representation of algorithms in-action.
 
