@@ -13,17 +13,21 @@ Project is created with:
 * SDL2
 
 ## Setup
-To use this project on Windows, need to download libraries:
+To use this project on Windows, need to download libraries:    
 SDL2
 
 ## Usage
 Run the solution.
 
-Controls:
-Press 'H' to access this help information.
-Press 'Q' to quit the program.
-Press '0' to generate new array of data.
-Press '1' to run Selection Sort.
-Press '2' to run Bubble Sort.
-Press 'Left Arrow Key' to increase sorting speed.
-Press 'Right Arrow Key' to decrease sorting speed.
+Controls:    
+* Press 'H' to access this help information.    
+* Press 'Q' to quit the program.     
+* Press '0' to generate new array of data.    
+* Press '1' to run Selection Sort.    
+* Press '2' to run Bubble Sort.    
+* Press 'Left Arrow Key' to increase sorting speed.    
+* Press 'Right Arrow Key' to decrease sorting speed.    
+
+## Future Features
+* Write more algorithm functions to sort the number arrays
+* Implement error handling system
