@@ -4,7 +4,7 @@
 
 ## Images
 <p float="left">
-  <img src="/images/sorting-visualizer.png" width=100% height=100% />
+  <img src="/images/sorting-visualizer1.png" width=100% height=100% />
 </p>
 
 ## Technologies
